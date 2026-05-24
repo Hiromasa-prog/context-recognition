@@ -1,0 +1,26 @@
+# data
+data/
+datasets/
+outputs/
+
+# notebook
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+
+# vscode
+.vscode/
+
+# mac
+.DS_Store
+
+# latex
+*.aux
+*.log
+*.out
+
+# large generated files
+*.pkl
+*.npy
+*.npz
